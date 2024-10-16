@@ -1,1 +1,10 @@
+fuehfi
+wqwq<<<<<<< .merge_file_rBkuMi
 Additional functionality in the feature-A branch
+=======
+First commit 
+modification from feature-C
+
+>>>>>>> .merge_file_jp4kQL
+
+
